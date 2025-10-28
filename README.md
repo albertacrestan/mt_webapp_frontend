@@ -3,3 +3,6 @@ This repository contains a web application for processing medical images. Users 
 ## Features
     Arteriosa: Adaptive Histogram Equalization to highlight arteries
     Venosa: Gaussian smoothing for venous phase
+
+## Demo link
+https://huggingface.co/spaces/albertacrestan/mt_webapp
