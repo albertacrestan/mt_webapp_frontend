@@ -1,16 +1,5 @@
-# medtech_webapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## MedTech Webapp
+This repository contains a web application for processing medical images. Users can upload images and apply filters to highlight arterial or venous phases. The backend uses SimpleITK for image processing, and the frontend is built with Docket for an interactive interface. Deployed on Hugging Face Spaces for easy access.
+## Features
+    Arteriosa: Adaptive Histogram Equalization to highlight arteries
+    Venosa: Gaussian smoothing for venous phase
