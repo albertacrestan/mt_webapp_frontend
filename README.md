@@ -5,4 +5,4 @@ This repository contains a web application for processing medical images. Users 
     Venosa: Gaussian smoothing for venous phase
 
 ## Demo link
-https://huggingface.co/spaces/albertacrestan/mt_webapp
+https://huggingface.co/spaces/albertacrestan/mt_webapp_backend
