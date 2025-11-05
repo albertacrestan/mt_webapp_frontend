@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
   // Point backendUrl to your Gradio Space predict endpoint:
   // e.g. Uri.parse('https://<your-username>.hf.space/api/predict')
   final Repository repository = Repository(
-    backendUrl: Uri.parse('https://albertacrestan-mt-webapp.hf.space/api/predict/'),
+    backendUrl: Uri.parse('https://albertacrestan-mt-webapp-backend.hf.space/api/predict/'),
   );
 
   Future<void> pickImage() async {
